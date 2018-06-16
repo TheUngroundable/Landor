@@ -1,2 +1,0 @@
-# Landor
-MVC Framework
